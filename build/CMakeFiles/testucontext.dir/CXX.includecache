@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuxintao/fiber/src/uthread.hpp
+ucontext.h
+-
+vector
+-
+
+/home/yuxintao/fiber/tests/testucontext.cpp
+../src/uthread.hpp
+/home/yuxintao/fiber/src/uthread.hpp
+stdio.h
+-
+

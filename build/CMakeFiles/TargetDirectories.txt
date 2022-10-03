@@ -1,0 +1,3 @@
+/home/yuxintao/fiber/build/CMakeFiles/rebuild_cache.dir
+/home/yuxintao/fiber/build/CMakeFiles/edit_cache.dir
+/home/yuxintao/fiber/build/CMakeFiles/testucontext.dir
